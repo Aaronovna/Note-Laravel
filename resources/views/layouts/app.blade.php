@@ -28,7 +28,7 @@
             @endisset
 
             <!-- Page Content -->
-            <main>
+            <main class="flex w-full justify-center">
                 {{ $slot }}
             </main>
         </div>
